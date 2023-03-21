@@ -1,0 +1,6 @@
+{
+  "homeserver_url": "https://example.com",
+  "packs": [
+    "scalar-geeko.json"
+  ]
+}
